@@ -105,4 +105,7 @@
   <img src="https://streak-stats.demolab.com?user=Mohamed-Mohsen123&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
+
+![snake gif](https://github.com/Mohamed-Mohsen123/Mohamed-Mohsen123/blob/output/github-contribution-grid-snake.gif)
+
 ###
