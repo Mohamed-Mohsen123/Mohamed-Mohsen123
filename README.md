@@ -15,9 +15,6 @@
 
 ###
 
-عايزة خلي حد لما يدوس عليه يوديه لصفحة تانية.
-tab another
-
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Mohamed-Mohsen123.Mohamed-Mohsen123&"  />
 </div>
